@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Mark Zuckerberg",
+    "id": 1,
+    "donate": 97878,
+    "img": "https://www.investopedia.com/thmb/5vTHQfH-3s7E9s_-CbSC1ZK0wsI=/4234x3271/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-688402250-c3fd58b6a99a4729a821205bfac67168.jpg",
+    "founder": "Facebook",
+    "age": 37,
+    "residence": "Calif."
+  },
+  {
+    "name": "Bill Gates",
+    "id": 2,
+    "donate": 76775,
+    "img": "https://www.investopedia.com/thmb/icJdqw3xd1D35PRSBeKd-cl6mYI=/4500x3000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-948065808-ba10e6df430c414fbc496dededf1db2b.jpg",
+    "founder": "Microsoft",
+    "age": "65",
+   "residence": "Washington"
+  },
+  {
+    "name": "Elon Musk",
+    "id": 3,
+    "donate": 94548,
+    "img": "https://www.investopedia.com/thmb/otMmLRn6NvfUnec6oc5NoxCyxJo=/5760x3840/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215628293-c32a14bc41c34aa9adee9e41f6c7fb68.jpg",
+    "founder": "Space X ",
+    "age": 50,
+    "residence": "Texas"
+  },
+  {
+    "name": "Warren Buffett",
+    "id": 4,
+    "donate": 87679,
+    "img": "https://www.investopedia.com/thmb/QU83H3zJ_8Af_KqdhNvhTP2YsCI=/3000x2101/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-540179188-f820573a1328459cb5cedac011088d4c.jpg",
+    "founder": "Berkshire Hathaway ",
+    "age": 91,
+    "residence": "Nebraska"
+  },
+  {
+      "name": "Jeff Bezos",
+      "id": 5,
+      "donate": 67788,
+      "img": "https://www.investopedia.com/thmb/tSwxM9QX5OHrhE-PGc4kJM4Pv8I=/3000x2000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1036094130-cf8da629f9b44c81a0b1398311ac5787.jpg",
+      "founder": "Amazon",
+      "age": 58,
+      "residence": "Seattle"
+  },
+  {
+      "name": "Larry Page",
+      "id": 6,
+      "donate": 68890,
+      "img": "https://www.investopedia.com/thmb/p0Fmg9R6XodoQtJraaWrWZjU_T8=/3000x2009/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-144948913-67ccee1c4f4c4845b69f4deb67bc6c7c.jpg",
+      "founder": "Alphabet(GOOG)",
+      "age": 48,
+      "residence": "California"
+}
+    
+  ]
